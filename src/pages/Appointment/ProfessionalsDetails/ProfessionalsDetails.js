@@ -2,7 +2,6 @@ import { Container, Grid, Typography } from "@mui/material";
 import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import FooterBody from "../../Footer/FooterBody/FooterBody";
-import Navigation from "../../Shared/Navigation/Navigation";
 import AppointmentBtn from "../AppointmentBtn/AppointmentBtn";
 import AppointmentHeader from "../AppointmentHeader/AppointmentHeader";
 
@@ -66,7 +65,7 @@ const ProfessionalsDetails = ({ date, setDate }) => {
               style={{ color: "#6c6c8a", fontWeight: "400", fontSize: "17px" }}
             >
               <span sx={{ pt: 1 }}
-                style={{ color: " #3b3663", fontWeight: "600", fontSize: "17px" }}> Email: </span>
+                style={{ color: " #3b3663", fontWeight: "600", fontSize: "17px" }}> Mail: </span>
               {mail}
             </Typography>
             <Typography
