@@ -14,3 +14,4 @@ Website link https://ewebot-d4e64.web.app
 *Make Admin : An admin can make aner admin (only admin can saw).
 *Add Professional : An admin can add professional consultants for his company.
 *Login/Registration : those who want to visit this website must have to login or new users need to register fast. 
+admin emnail: teamphero34@gmail.com pass: 123456
